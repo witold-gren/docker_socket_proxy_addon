@@ -14,12 +14,15 @@
     "i386"
   ],
   "devices": [
-    "/var/run/docker.sock",
-    "/config/.certs"
+    "/var/run/docker.sock"
   ],
   "environment": {
     "CERTS_DIR": "/config/.certs"
   },
+  "map": [
+    "config",
+    "ssl"
+  ],
   "boot": "auto",
   "legacy": true,
   "ports": {
