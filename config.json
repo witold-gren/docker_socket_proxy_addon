@@ -14,7 +14,7 @@
     "i386"
   ],
   "devices": [
-    "/var/run/docker.sock"
+    "/run/docker.sock"
   ],
   "environment": {
     "CERTS_DIR": "/config/.certs"
