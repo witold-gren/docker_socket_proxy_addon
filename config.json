@@ -1,6 +1,6 @@
 {
   "name": "Docker Socket Proxy Add-on (Alpha)",
-  "version": "latest",
+  "version": "0.1",
   "slug": "docker_socket_proxy_addon",
   "description": "Startup attempt to run docker-socket-proxy as as Home Assistant addo-on.",
   "uart": false,
@@ -27,5 +27,5 @@
   "ports_description": {
     "2376/tcp": "Network port which expose data from the container."
   },
-  "image": "ranrinc/docker-socket-proxy"
+  "image": "witoldgren/docker-socket-proxy"
 }
