@@ -17,6 +17,9 @@
     "/var/run/docker.sock",
     "/config/.certs"
   ],
+  "environment": {
+    "CERTS_DIR": "/config/.certs"
+  },
   "boot": "auto",
   "legacy": true,
   "ports": {
