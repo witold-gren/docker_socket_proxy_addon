@@ -13,9 +13,7 @@
     "armv7",
     "i386"
   ],
-  "devices": [
-    "/var/run/docker.sock"
-  ],
+  "full_access": true,
   "environment": {
     "CERTS_DIR": "/config/.certs",
     "DOCKER_SOCKET": "/var/run/docker.sock",
