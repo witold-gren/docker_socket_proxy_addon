@@ -3,11 +3,9 @@
   "version": "0.1",
   "slug": "docker_socket_proxy_addon",
   "description": "Startup attempt to run docker-socket-proxy as as Home Assistant addo-on.",
-  "uart": false,
   "docker_api": true,
   "url": "https://github.com/witold-gren/docker_socket_proxy_addon",
   "startup": "system",
-  "services": [],
   "arch": [
     "aarch64",
     "amd64",
