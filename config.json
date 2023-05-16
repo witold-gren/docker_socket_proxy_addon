@@ -13,7 +13,7 @@
     "armv7",
     "i386"
   ],
-  "full_access": true,
+  "full_access": false,
   "environment": {
     "CERTS_DIR": "/config/.certs",
     "DOCKER_SOCKET": "/var/run/docker.sock",
