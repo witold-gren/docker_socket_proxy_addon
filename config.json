@@ -1,6 +1,6 @@
 {
   "name": "Docker Socket Proxy Add-on (Alpha)",
-  "version": "0.1",
+  "version": "0.2",
   "slug": "docker_socket_proxy_addon",
   "description": "Startup attempt to run docker-socket-proxy as as Home Assistant addo-on.",
   "docker_api": true,
